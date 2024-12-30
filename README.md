@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Mert</h1>
 <h4><a style="text-align: center;" href="https://mertt.web.app/">https://mertt.web.app/</a></h4>
+<h4><a style="text-align: center;" href="https://light-blue.web.app/">https://light-blue.web.app/</a></h4>
+<h4><a style="text-align: center;" href="https://projectdevs.web.app/">https://projectdevs.web.app/</a></h4>
 <img src="https://github.com/user-attachments/assets/4932c5e5-1d3d-4442-8a24-e663ffcb83d4" width="70" height="70">
 <p>Turkish - he/him - known as Mert409</p>
 <p>Web/Mobile</p>
