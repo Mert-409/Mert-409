@@ -1,4 +1,5 @@
 <h1 style="text-align: center;">Mert</h1>
+<p><i>maybe i should rewrite this</i></p>
 <h4><a style="text-align: center;" href="https://mertt.web.app/">https://mertt.web.app/</a></h4>
 <h4><a style="text-align: center;" href="https://light-blue.web.app/">https://light-blue.web.app/</a></h4>
 <h4><a style="text-align: center;" href="https://projectdevs.web.app/">https://projectdevs.web.app/</a></h4>
