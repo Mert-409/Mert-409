@@ -1,9 +1,47 @@
 # Mert
 
-Tech Stack:
+**Tech Stack:**
+----
+***Frontend:***
 
-Mobile: React Native, Expo
+*Mobile:* 
 
-Web: React, Vite
+Framework: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/)
 
-Backend: Firebase, Node.js
+Routing: Expo Router (based on React Navigation)
+
+*Web:*
+
+Framework: [React](https://react.dev/)
+
+Build tool: [Vite](https://vite.dev/)
+
+Style: [Tailwind CSS](https://tailwindcss.com/)
+
+Routing: [React Router](https://reactrouter.com/)
+
+Deployment: Firebase Hosting and Cloudflare Pages
+
+***Backend:*** 
+
+Cloud platform: GCP, Cloudflare
+
+Auth, database, storage: Firebase
+
+Serverless: Firebase Functions and Cloudflare Workers
+
+Bot protection: Cloudflare Turnstile and App Check
+
+***Other:***
+
+Icons: Lucide (and sometimes Bootstrap Icons)
+
+Runtime: Node.js
+
+Package manager: npm
+
+Code editor: Visual Studio Code
+
+Version control: Git & GitHub
+
+*I use JavaScript and TypeScript as programming language for everything in this stack.*
