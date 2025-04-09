@@ -20,7 +20,7 @@ Style: [Tailwind CSS](https://tailwindcss.com/)
 
 Routing: [React Router](https://reactrouter.com/)
 
-Deployment: Firebase Hosting and Cloudflare Pages
+Deployment: Vercel, Cloudflare Pages, Firebase Hosting and Netlify (yes i use all of them for different projects)
 
 ***Backend:*** 
 
