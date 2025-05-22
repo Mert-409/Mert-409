@@ -19,7 +19,7 @@
 
 - *APIs:* Next.js API Routes or Hono or Express.js
 - *Server:* Vercel Functions or Cloudflare Workers
-- *DB:* Neon Postgres
+- *DB:* Neon Postgres or Cloudflare D1
 - *Auth:* Better Auth
 - *File uploads:* R2 or S3
 - *Bot protection:* Cloudflare Turnstile 
