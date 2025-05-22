@@ -1,49 +1,36 @@
 # Mert
+## Tech Stack
 
-**Tech Stack:**
-----
-***Frontend:***
+**Web**
 
-*Mobile:* 
+- *Frontend libary:* React
+- *Style:* Tailwind CSS
+- *Component libary:* shadcn/ui
+- *Build tool/full stack framework:* Vite or Next.js
+- *Router:* React router or Next /app router
+- *Deployment:* Vercel or Cloudflare
 
-Framework: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/)
+**Mobile**
 
-Routing: Expo Router (based on React Navigation)
+- *Framework:* React Native and Expo 
+- *Router:* Expo Router
 
-*Web:*
+**Backend**
 
-Framework: [React](https://react.dev/)
+- *APIs:* Next.js API Routes or Hono or Express.js
+- *Server:* Vercel Functions or Cloudflare Workers
+- *DB:* Neon Postgres
+- *Auth:* Better Auth
+- *File uploads:* S3 or R2
+- *Bot protection:* Cloudflare Turnstile 
 
-Build tool: [Vite](https://vite.dev/)
+*or sometimes i don't take any of these and just use Firebase or Supabase*
 
-Style: [Tailwind CSS](https://tailwindcss.com/)
+**Other stuff**
 
-Routing: [React Router](https://reactrouter.com/)
-
-(sometimes i use next)
-
-Deployment: Vercel, Cloudflare Pages, Netlify anda sometimes Firebase Hosting (yes i use all of them for different projects)
-
-***Backend:*** 
-
-Cloud platform: GCP, Cloudflare
-
-Auth, database, storage: Firebase
-
-Serverless: Firebase Functions and Cloudflare Workers
-
-Bot protection: Cloudflare Turnstile and App Check
-
-***Other:***
-
-Icons: Lucide (and sometimes Bootstrap Icons)
-
-Runtime: Node.js
-
-Package manager: npm
-
-Code editor: Visual Studio Code
-
-Version control: Git & GitHub
-
-*I use JavaScript and TypeScript as programming language for everything in this stack.*
+- Icons: Lucide
+- Programming language: TypeScript and JavaScript
+- Runtime: Node.js
+- Package manager: npm
+- Code editor: Visual Studio Code
+- Version control: Git and GitHub
