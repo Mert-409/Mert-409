@@ -21,7 +21,7 @@
 - *Server:* Vercel Functions or Cloudflare Workers
 - *DB:* Neon Postgres
 - *Auth:* Better Auth
-- *File uploads:* S3 or R2
+- *File uploads:* R2 or S3
 - *Bot protection:* Cloudflare Turnstile 
 
 *or sometimes i don't take any of these and just use Firebase or Supabase*
