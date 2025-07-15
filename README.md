@@ -17,3 +17,6 @@ Welcome to my profile!
 - Vercel/Cloudflare
 - Cloudflare KV/Upstash Redis
 - R2/UploadThing
+- Expo Router
+
+*(sometimes i use vite and react router instead of next)*
