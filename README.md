@@ -16,3 +16,4 @@ Welcome to my profile!
 - Better Auth
 - Vercel/Cloudflare
 - Cloudflare KV/Upstash Redis
+- R2/UploadThing
